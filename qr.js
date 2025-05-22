@@ -84,7 +84,7 @@ https://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y
 
 ᎠϴΝͲ ҒϴᎡᏀᎬͲ Ͳϴ ᏀᏆᏙᎬ ՏͲᎪᎡ Ͳϴ ᎡᎬᏢϴ ⬇️
 
-https://github.com/ObedTech003/Hunter-xmd
+https://github.com/Obedweb/Killer-Xmd1
 
 > *© 𝖕𝖔𝖜𝖊𝖗𝖊𝖉 𝖇𝖞 𝕸𝖗 🅾🅱🅴🅳🆃🅴🅲🅷*`;
                         await sock.sendMessage(sock.user.id, {
