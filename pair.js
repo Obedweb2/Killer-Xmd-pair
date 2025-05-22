@@ -75,13 +75,13 @@ var randomItem = selectRandomItem(items);
                         const { upload } = require('./mega');
                         const mega_url = await upload(fs.createReadStream(rf), `${sock.user.id}.json`);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
-                        let md = "HUNTER-XMD~" + string_session;
+                        let md = "𝕜𝕚𝕝𝕝𝕖𝕣-𝕩𝕞𝕕~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `*Hello there ! 👋🏻* 
+                        let desc = `*Hello there ᏦᏆᏞᏞᎬᎡ ХᎷᎠ ! 👋🏻* 
 
 > Do not share your session id with anyone.
 
- *Thanks for HUNTER-XMD* 
+ *Thanks for ᏦᏆᏞᏞᎬᎡ ХᎷᎠ * 
 
 > Join WhatsApp Channel :- ⤵️
  
@@ -89,14 +89,14 @@ var randomItem = selectRandomItem(items);
 
 Dont forget to fork the repo ⬇️
 
-https://github.com/ObedTech003/Hunter-xmd1
+https://github.com/Obedweb2/Killer-Xmd1
 
-> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Obed Tech*`; 
+> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 🅾🅱🅴🅳🆃🅴🅲🅷*`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍʀ.HUNTER-XMD",
+title: "ᴍʀ.ᏦᏆᏞᏞᎬᎡ ХᎷᎠ ",
 thumbnailUrl: "",
 sourceUrl: "https://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y",
 mediaType: 1,
@@ -112,8 +112,8 @@ renderLargerThumbnail: true
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "HUNTER-XMD",
-thumbnailUrl: "https://files.catbox.moe/uz2m81.jpg",
+title: "ᏦᏆᏞᏞᎬᎡ ХᎷᎠ ",
+thumbnailUrl: "https://files.catbox.moe/db7508.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y",
 mediaType: 2,
 renderLargerThumbnail: true,
