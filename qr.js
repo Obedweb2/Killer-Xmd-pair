@@ -70,29 +70,29 @@ var randomItem = selectRandomItem(items);
                         const { upload } = require('./mega');
                         const mega_url = await upload(fs.createReadStream(rf), `${sock.user.id}.json`);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
-                        let md = "HUNTER-XMD~" + string_session;
+                        let md = "𝕜𝕚𝕝𝕝𝕖𝕣-𝕩𝕞𝕕~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `*Hello there HUNTER-XMD 1.0.0 User! 👋🏻* 
+                        let desc = `*Hello there ᏦᏆᏞᏞᎬᎡ ХᎷᎠ  2.0.0 User! 👋🏻* 
 
 > Do not share your session id with anyone.
 
- *Thanks for using HUNTER-XMD 1.0.0🚩* 
+ *Thanks for using ᏦᏆᏞᏞᎬᎡ ХᎷᎠ  1.0.0🚩* 
 
 > Join WhatsApp Channel :- ⤵️
  
 https://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y
 
-Dont forget to fork the repo ⬇️
+ᎠϴΝͲ ҒϴᎡᏀᎬͲ Ͳϴ ᏀᏆᏙᎬ ՏͲᎪᎡ Ͳϴ ᎡᎬᏢϴ ⬇️
 
 https://github.com/ObedTech003/Hunter-xmd
 
-> *© 𝖕𝖔𝖜𝖊𝖗𝖊𝖉 𝖇𝖞 𝕸𝖗 Hunter-xmd*`;
+> *© 𝖕𝖔𝖜𝖊𝖗𝖊𝖉 𝖇𝖞 𝕸𝖗 🅾🅱🅴🅳🆃🅴🅲🅷*`;
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
 title: " 𝖇𝖔𝖙 Hunter-xmd",
-thumbnailUrl: "https://files.catbox.moe/uz2m81.jpg",
+thumbnailUrl: "https://files.catbox.moe/db7508.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -106,23 +106,23 @@ renderLargerThumbnail: true
 
 > Do not share your session id with anyone.
 
- *Thanks for using HUNTER-XMD 1.0.0 🚩* 
+ *Thanks for using ᏦᏆᏞᏞᎬᎡ ХᎷᎠ  2.0.0 🚩* 
 
 > Join WhatsApp Channel :- ⤵️
  
 https://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y
 
-Dont forget to fork the repo ⬇️
+ᎠϴΝͲ ҒϴᎡᏀᎬͲ Ͳϴ ᏀᏆᏙᎬ ՏͲᎪᎡ Ͳϴ ᎡᎬᏢϴ ⬇️
 
 https://github.com/ObedTech/Hunter-xmd
 
-> *© 𝖕𝖔𝖜𝖊𝖗𝖊𝖉 𝖇𝖞 𝕸𝖗 Obed Tech*`;
+> *© 𝖕𝖔𝖜𝖊𝖗𝖊𝖉 𝖇𝖞 𝕸𝖗 🅾🅱🅴🅳🆃🅴🅲🅷*`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
 title: " 𝖒𝖉 𝖈𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 ✅  ",
-thumbnailUrl: "https://files.catbox.moe/uz2m81.jpg",
+thumbnailUrl: "https://files.catbox.moe/db7508.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y",
 mediaType: 2,
 renderLargerThumbnail: true,
